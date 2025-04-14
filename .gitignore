@@ -1,0 +1,14 @@
+
+*.pyc
+__pycache__
+
+
+.env
+
+
+data/
+
+
+.vscode/
+.idea/
+*.swp
